@@ -1,0 +1,2 @@
+# FuncSusEventgrid
+🪐 FuncSusEventgrid - Azure Cloud
